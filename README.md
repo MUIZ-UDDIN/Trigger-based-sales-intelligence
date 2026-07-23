@@ -116,6 +116,7 @@ SCOUTER_API_URL=http://localhost:8000/scout
 ## Blog Post
 
 Full walkthrough: [How to Build a Trigger-Based Sales Intelligence Engine](https://muizuddin.com/blog/trigger-based-sales-intelligence-engine)
+
 Full walkthrough: [How to Self-Host n8n for Free Without the 14-Day Trial (Docker + Cloudflare Tunnel Guide)](https://muizuddin.com/blog/self-host-n8n-free-docker-cloudflare-tunnel)
 
 ## License
