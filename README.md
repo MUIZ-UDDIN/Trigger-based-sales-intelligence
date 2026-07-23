@@ -110,15 +110,14 @@ SCOUTER_API_URL=http://localhost:8000/scout
 
 | Screenshot | Description |
 |------------|-------------|
-| `screenshots/workflow1-n8n.png` | n8n workflow: RSS -> LLM scoring -> Scouter API |
-| `screenshots/workflow2-n8n.png` | n8n workflow: Polling -> AI copy -> Slack HITL -> Resend |
-| `screenshots/slack-approval.png` | Slack notification with Approve button |
-| `screenshots/lead-db.png` | SQLite leads with posted/unposted states |
-| `screenshots/architecture.png` | Full architecture diagram |
+| <img width="3170" height="1361" alt="image" src="https://github.com/user-attachments/assets/a1da88da-cb40-4a4a-9bef-ab06291a73e4" /> | n8n workflow: Polling -> AI copy -> Slack HITL -> Resend |
+| <img width="3080" height="1277" alt="image" src="https://github.com/user-attachments/assets/5ab8793d-1e24-4172-b5d7-47b2af52755b" />
+ | n8n workflow: RSS -> LLM scoring -> Scouter API |
 
 ## Blog Post
 
 Full walkthrough: [How to Build a Trigger-Based Sales Intelligence Engine](https://muizuddin.com/blog/trigger-based-sales-intelligence-engine)
+Full walkthrough: [How to Self-Host n8n for Free Without the 14-Day Trial (Docker + Cloudflare Tunnel Guide)](https://muizuddin.com/blog/self-host-n8n-free-docker-cloudflare-tunnel)
 
 ## License
 
