@@ -111,8 +111,7 @@ SCOUTER_API_URL=http://localhost:8000/scout
 | Screenshot | Description |
 |------------|-------------|
 | <img width="3170" height="1361" alt="image" src="https://github.com/user-attachments/assets/a1da88da-cb40-4a4a-9bef-ab06291a73e4" /> | n8n workflow: Polling -> AI copy -> Slack HITL -> Resend |
-| <img width="3080" height="1277" alt="image" src="https://github.com/user-attachments/assets/5ab8793d-1e24-4172-b5d7-47b2af52755b" />
- | n8n workflow: RSS -> LLM scoring -> Scouter API |
+| <img width="3080" height="1277" alt="image" src="https://github.com/user-attachments/assets/5ab8793d-1e24-4172-b5d7-47b2af52755b" /> | n8n workflow: RSS -> LLM scoring -> Scouter API |
 
 ## Blog Post
 
